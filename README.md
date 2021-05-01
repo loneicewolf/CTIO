@@ -1,2 +1,3 @@
-# CTI
-CTI - Cyber Threat Intelligence
+# CTIO
+CTIO - Cyber Threat Intelligence Overlay
+
